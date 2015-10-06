@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/hillelcoren/invoice-ninja/master/public/images/round_logo.png" alt="Sublime's custom image"/>
 </p>
 
-# Invoice Ninja
+# Invoice Ninja - Forked by Sfacs
 ### [https://www.invoiceninja.com](https://www.invoiceninja.com)
 
 [![Join the chat at https://gitter.im/hillelcoren/invoice-ninja](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/hillelcoren/invoice-ninja?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
